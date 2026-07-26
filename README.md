@@ -14,7 +14,7 @@ Most AI demos optimize for wow. My work optimizes for governance: every agent ha
 
 **About me**
 
-- **Senior Manager, Product at MPOWER Financing.** I run product for international and US graduate lending: a configurable decisioning platform handling tens of thousands of applications a month, applied ML risk-based pricing, and one of the company's first production GenAI products (about 98% containment across a large 2025 user base).
+- **Senior Manager, Product at MPOWER Financing.** I run product for international and US graduate lending: a configurable decisioning platform processing 27,000+ monthly applications, applied ML risk-based pricing, and one of the company's first production GenAI products (98% containment across 47,000+ users in 2025).
 - 14 years across lending, payments, and insurance platforms; employee #20 in India, four promotions in 6.5 years.
 - I design and operate these systems; the code is written with AI inside gates I define. Knowing where that boundary sits is the point.
 
@@ -23,7 +23,7 @@ Most AI demos optimize for wow. My work optimizes for governance: every agent ha
 | Repo | What it proves |
 |---|---|
 | **careeros** | An agentic operating system for running a job search like a product: adversarial review gates, truth ledgers, prediction calibration |
-| **fpl-copilot** | A Fantasy Premier League agent that commits predictions publicly before each deadline and grades itself after. The scoreboard doesn't lie |
+| **decision-studio** | A configurable loan decisioning engine: eligibility rules, scorecards, and pricing tiers editable at runtime, with every decision returned in milliseconds and fully traced |
 | **rag-eval-harness** | Evaluation rigor for RAG systems: groundedness, containment, failure-mode tracking |
 | **regulated-credit-decision-sandbox** | Policy-as-code for regulated lending: adverse-action codes, audit trails, review paths. All synthetic |
 
