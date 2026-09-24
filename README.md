@@ -14,8 +14,8 @@ Most AI demos optimize for wow. My work optimizes for governance: every agent ha
 
 **About me**
 
-- **Senior Manager, Product at MPOWER Financing.** I run product for international and US graduate lending: a configurable decisioning platform processing 27,000+ monthly applications, applied ML risk-based pricing, and one of the company's first production GenAI products (98% containment across 47,000+ users in 2025).
-- 14 years across lending, payments, and insurance platforms; employee #20 in India, four promotions in 6.5 years.
+- **Senior Manager, Product at MPOWER Financing, Dec 2019 to Sep 2026.** Ran product for international student and US domestic graduate lending: a configurable decisioning platform handling 27,000+ monthly applications, risk-based pricing built with data science, and one of the company's first production GenAI products (98% containment across 35,277 users through September 2025).
+- 14 years across lending, payments, and insurance platforms; employee #20 in India, four promotions in about seven years, acting product head for both lending lines from April 2026.
 - I design and operate these systems; the code is written with AI inside gates I define. Knowing where that boundary sits is the point.
 
 **Pinned work**
@@ -29,5 +29,6 @@ Most AI demos optimize for wow. My work optimizes for governance: every agent ha
 
 **Elsewhere**
 
+- Portfolio: [subhasishgoswami.com](https://subhasishgoswami.com)
 - LinkedIn: [linkedin.com/in/subhasishgoswami](https://www.linkedin.com/in/subhasishgoswami)
 - Currently exploring: agent governance patterns for regulated industries. If you're building AI where a wrong answer has consequences, I'd like to compare notes.
