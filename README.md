@@ -1,34 +1,24 @@
-# Hi, I'm Subhasish 👋
+# Hi, I'm Subhasish
 
-I build AI agent systems that have to be right, not just impressive: lending, credit, compliance-heavy workflows, and high-stakes personal decisions.
+Product leader for fintech, lending and applied AI. My thread: decisions you can explain. Credit rules that decide in seconds with a full trace, AI assistants that say "I don't know" instead of guessing, and evals that catch a number changing meaning.
 
-Most AI demos optimize for wow. My work optimizes for governance: every agent has bounded authority, every claim has a source, every prediction gets graded against reality.
+**Recent work**
 
-**What I work on**
+- **Senior Manager, Product at MPOWER Financing, Dec 2019 to Sep 2026.** Joined as employee #20 in India and grew to product head for International Student Lending and US Domestic Lending. Built the decisioning platform behind 27,000+ monthly applications, ran risk-based pricing with data science, and shipped Mira, an AI borrower-support assistant (98% containment across 35,277 users through September 2025).
+- 14 years across lending, payments and insurance.
 
-- Agent systems with ordered review gates and veto powers, not committee-style feedback
-- Truth ledgers: claim provenance, confidence verdicts, conflict adjudication
-- Calibration loops: pre-registered predictions, graded outcomes, one experiment at a time
-- Applied GenAI in regulated fintech: containment metrics, grounding rules, human-curated knowledge bases
-- Evals that fit real constraints, including when N=1
+**Builds** (personal projects, synthetic data)
 
-**About me**
-
-- **Senior Manager, Product at MPOWER Financing, Dec 2019 to Sep 2026.** Ran product for international student and US domestic graduate lending: a configurable decisioning platform handling 27,000+ monthly applications, risk-based pricing built with data science, and one of the company's first production GenAI products (98% containment across 35,277 users through September 2025).
-- 14 years across lending, payments, and insurance platforms; employee #20 in India, four promotions in about seven years, acting product head for both lending lines from April 2026.
-- I design and operate these systems; the code is written with AI inside gates I define. Knowing where that boundary sits is the point.
-
-**Pinned work**
-
-| Repo | What it proves |
+| Repo | What it shows |
 |---|---|
-| **careeros** | An agentic operating system for running a job search like a product: adversarial review gates, truth ledgers, prediction calibration |
-| **decision-studio** | A configurable loan decisioning engine: eligibility rules, scorecards, and pricing tiers editable at runtime, with every decision returned in milliseconds and fully traced |
-| **rag-eval-harness** | Evaluation rigor for RAG systems: groundedness, containment, failure-mode tracking |
-| **regulated-credit-decision-sandbox** | Policy-as-code for regulated lending: adverse-action codes, audit trails, review paths. All synthetic |
+| **decision-studio** | Live credit-decisioning prototype: rules console, full decision trace, policy tests in CI. [Try it](https://decision-studio-one.vercel.app) |
+| **rag-eval-harness** | Evals for a RAG assistant: groundedness, containment, failure modes |
+| **careeros** | Agentic system for high-stakes personal decisions: evidence register, review gates, calibrated predictions |
+| **regulated-credit-decision-sandbox** | Policy as code for regulated lending: adverse-action codes, audit trails, review paths |
 
 **Elsewhere**
 
 - Portfolio: [subhasishgoswami.com](https://subhasishgoswami.com)
 - LinkedIn: [linkedin.com/in/subhasishgoswami](https://www.linkedin.com/in/subhasishgoswami)
-- Currently exploring: agent governance patterns for regulated industries. If you're building AI where a wrong answer has consequences, I'd like to compare notes.
+
+If you're building AI where a wrong answer has consequences, I'd like to compare notes.
