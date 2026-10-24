@@ -13,7 +13,7 @@ Product leader for fintech, lending and applied AI. My thread: decisions you can
 |---|---|
 | **decision-studio** | Live credit-decisioning prototype: rules console, full decision trace, policy tests in CI. [Try it](https://decision-studio-one.vercel.app) |
 | **rag-eval-harness** | Evals for a RAG assistant: retrieval, answer correctness and red-team behavior |
-| **careeros** | Agentic system for high-stakes personal decisions: evidence register, review gates, calibrated predictions |
+| **careeros** | Job-search system you run with Claude. Claims trace to an evidence file and pass review gates before anything is sent |
 | **regulated-credit-decision-sandbox** | Policy as code for regulated lending: adverse-action codes, audit trails, review paths |
 
 **Elsewhere**
